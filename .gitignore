@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.env
+archive/
+
+# Dataset and large files - EXCLUDE THESE
+archive/
+data/raw/
+dataset/
+*.zip
+*.tar.gz
+
+# Model checkpoints (keep final models)
+checkpoints/
+*_epoch_*.pth
+*_checkpoint_*.pth
