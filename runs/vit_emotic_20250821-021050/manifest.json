@@ -1,0 +1,12 @@
+{
+  "created_at": "2025-08-21T05:25:36",
+  "run_dir": "runs/vit_emotic_20250821-021050",
+  "model_path": "runs/vit_emotic_20250821-021050/best_vit_emotic.pth",
+  "thresholds_json": "runs/vit_emotic_20250821-021050/thresholds.json",
+  "thresholds_npy": "runs/vit_emotic_20250821-021050/thresholds.npy",
+  "aug_mode": "none",
+  "train_annotations_path": "archive/annots_arrs/annot_arrs_train.csv",
+  "val_annotations_path": "archive/annots_arrs/annot_arrs_val.csv",
+  "img_dir": "archive/img_arrs/",
+  "aug_img_dir": "archive/augmented_img_arrs"
+}
