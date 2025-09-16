@@ -1,0 +1,16 @@
+[
+  {
+    "model": "vit_emotic_20250819-192210",
+    "status": "failed",
+    "error": "Input contains NaN."
+  },
+  {
+    "model": "vit_emotic_20250821-021050",
+    "test_timestamp": "20250916_160232",
+    "map": 0.17586604231680522,
+    "macro_f1": 0.24958746513422905,
+    "weighted_f1": 0.5171934187956783,
+    "of1": 0.28993480941310634,
+    "status": "success"
+  }
+]

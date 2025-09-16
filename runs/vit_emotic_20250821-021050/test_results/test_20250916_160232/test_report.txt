@@ -1,0 +1,27 @@
+============================================================
+TEST REPORT - vit_emotic_20250821-021050
+Test Date: 20250916_160232
+============================================================
+
+OVERALL METRICS:
+------------------------------
+Mean Average Precision (mAP): 0.1759
+Macro F1 Score (C-F1): 0.2496
+Weighted F1 Score: 0.5172
+Example-based F1 (O-F1): 0.2899
+
+TOP 5 PERFORMING CATEGORIES (by AP):
+------------------------------
+1. Engagement: 0.7853
+2. Confidence: 0.5171
+3. Excitement: 0.5134
+4. Happiness: 0.5048
+5. Anticipation: 0.4720
+
+BOTTOM 5 PERFORMING CATEGORIES (by AP):
+------------------------------
+1. Embarrassment: 0.0167
+2. Pain: 0.0233
+3. Anger: 0.0247
+4. Aversion: 0.0315
+5. Sensitivity: 0.0333
