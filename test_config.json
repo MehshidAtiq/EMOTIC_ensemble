@@ -1,0 +1,26 @@
+{
+  "data": {
+    "test_annotations_path": "archive/annots_arrs/annot_arrs_test.csv",
+    "img_dir": "archive/img_arrs/",
+    "batch_size": 32,
+    "num_workers": 0
+  },
+  "evaluation": {
+    "use_dynamic_thresholds": true,
+    "fixed_threshold": 0.5,
+    "calculate_optimal_thresholds": true
+  },
+  "metrics": {
+    "calculate_ap": true,
+    "calculate_map": true,
+    "calculate_cf1": true,
+    "calculate_of1": true,
+    "save_predictions": true,
+    "save_confusion_matrices": true
+  },
+  "output": {
+    "generate_visualizations": true,
+    "verbose": true,
+    "save_per_sample_metrics": false
+  }
+}

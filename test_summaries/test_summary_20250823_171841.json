@@ -1,0 +1,7 @@
+[
+  {
+    "model": "vit_emotic_20250819-192210",
+    "status": "failed",
+    "error": "Input contains NaN."
+  }
+]
